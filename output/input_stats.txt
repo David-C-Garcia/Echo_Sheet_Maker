@@ -1,0 +1,4 @@
+Total Sequences: 14384
+Average Length: 525.7386679644048
+Smallest Length: 8
+Largest Length: 3264
